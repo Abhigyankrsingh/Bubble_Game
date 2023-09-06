@@ -1,8 +1,3 @@
-# Bubble_Game
-
-Certainly! Below is a sample README file for your bubble game project:
-
----
 
 # Bubble Game
 
